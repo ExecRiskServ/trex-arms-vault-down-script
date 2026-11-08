@@ -1,0 +1,10 @@
+# Downloaded archives and logs — never commit the manuals or run artifacts
+FMV_All/
+FMV_1995plus/
+Field Manuals/
+*.pdf
+_download_log.txt
+
+# OS cruft
+.DS_Store
+Thumbs.db

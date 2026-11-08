@@ -10,6 +10,9 @@ embedded in the file itself as a comment-line manifest, so there are no
 external dependencies, no scraping of index pages, and nothing to configure.
 Point a script at a destination folder and it works.
 
+Note: 
+3,634 files, not 4,215. The vault collapses multiple editions of a manual into one card, and the card links to one edition. The other ~580 editions aren’t exposed in the listing, so this grabs the primary edition of every title. 
+
 ## Contents
 
 | Script | Scope | Manuals | Approx. size |
